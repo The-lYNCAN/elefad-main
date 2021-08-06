@@ -1,0 +1,11 @@
+{
+    "env": {
+        "NEXT_PUBLIC_REST_API_ENDPOINT": "https://elefad.com/api"
+    },
+    "build": {
+        "env": {
+            "NEXT_PUBLIC_REST_API_ENDPOINT": "https://elefad.com/api"
+        }
+    }
+
+}
